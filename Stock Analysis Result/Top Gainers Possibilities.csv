@@ -1,0 +1,23 @@
+Possibilities,Occurence
+"Green Histogram, Price Below 200 EMA, MACD Intersecting Below, EMA Decreasing",12
+"Green Histogram, Price Below 200 EMA, MACD Parallel Below, EMA Decreasing",8
+"Red Histogram, Price Below 200 EMA, MACD Parallel Below, EMA Decreasing",5
+"Red Histogram, Price Above 200 EMA, MACD Expanding Above, EMA Increasing",3
+"Red Histogram, Price Below 200 EMA, MACD Expanding Below, EMA Decreasing",6
+"Red Histogram, Price Below 200 EMA, MACD Intersecting Below, EMA Decreasing",3
+"Red Histogram, Price Below 200 EMA, MACD Parallel Above, EMA Decreasing",4
+"Green Histogram, Price Above 200 EMA, MACD Expanding Above, EMA Increasing",1
+"Green Histogram, Price Above 200 EMA, MACD Expanding Below, EMA Increasing",1
+"Green Histogram, Price Above 200 EMA, MACD Intersecting Above, EMA Increasing",1
+"Green Histogram, Price Above 200 EMA, MACD Intersecting Below, EMA Decreasing",1
+"Green Histogram, Price Above 200 EMA, MACD Intersecting Below, EMA Increasing",1
+"Green Histogram, Price Above 200 EMA, MACD Parallel Below, EMA Increasing",1
+"Green Histogram, Price Below 200 EMA, MACD Expanding Below, EMA Decreasing",4
+"Green Histogram, Price Below 200 EMA, MACD Intersecting Below, EMA Increasing",1
+"Red Histogram, Price Above 200 EMA, MACD Parallel Below, EMA Decreasing",1
+"Red Histogram, Price Below 200 EMA, MACD Expanding Above, EMA Decreasing",1
+"Red Histogram, Price Below 200 EMA, MACD Expanding Below, EMA Increasing",1
+"Green Histogram, Price Below 200 EMA, MACD Intersecting Above, EMA Increasing",1
+"Red Histogram, Price Above 200 EMA, MACD Parallel Above, EMA Decreasing",1
+"Red Histogram, Price Above 200 EMA, MACD Expanding Below, EMA Increasing",1
+"Red Histogram, Price Above 200 EMA, MACD Parallel Below, EMA Increasing",1
